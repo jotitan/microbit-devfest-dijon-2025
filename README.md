@@ -1,4 +1,4 @@
-![Logo devfest Dijon](./logo_devfest_dijon.png)
+![Logo devfest Dijon](./logo_devfest_dijon.jpg)
 
 # Atelier micro:bit Devfest Dijon 2025
 
